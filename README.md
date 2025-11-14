@@ -14,6 +14,7 @@ To design, simulate, and verify a **4-bit Ripple Carry Adder** using **Task** an
 ## **Theory**
 ### **Ripple Carry Adder**
 A 4-bit Ripple Carry Adder (RCA) adds two 4-bit binary numbers by cascading four full adders. The carry-out of each full adder acts as the carry-in for the next stage. Using a **task** in Verilog, the addition operation can be modularized for each bit.
+
 <img width="692" height="268" alt="image" src="https://github.com/user-attachments/assets/b70c348a-049a-4462-88a4-ad6905446cf4" />
 
 
