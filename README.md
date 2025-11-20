@@ -125,11 +125,6 @@ q <= i(q);
 end
 endmodule
 
-
-
-
-
-
 ```
 ### **Testbench for 4-bit Ripple Counter using Function**
 ```
